@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Jaclyn (Jax) Jensen"
+title: "Hi there ! I'm Jax"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -19,3 +19,10 @@ My current research interests are any topics related to Galactic Archaeology, su
 Something about current projects and how my data is being applied to cool new stuff.
   
 My personal interests include:
+  * Travel
+  * Trail running
+  * Trying new recipes
+  * Knitting
+  * Hiking
+  * Playing uke in the forest
+  * Trying new microbreweries on Vancouver Island

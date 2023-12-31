@@ -11,8 +11,8 @@ title                    : "Jaclyn (Jax) Jensen"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
-url                      : https://jaclynjensen.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : "/home" # the subpath of your site, e.g. "/blog"
+url                      : "https://jaclynjensen.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+baseurl                  :  # the subpath of your site, e.g. "/blog"
 repository               : "jaclynjensen/jaclynjensen.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
@@ -54,6 +54,8 @@ google_site_verification :
 bing_site_verification   :
 alexa_site_verification  :
 yandex_site_verification :
+
+github                   : [metadata]
 
 # Social Sharing
 twitter:

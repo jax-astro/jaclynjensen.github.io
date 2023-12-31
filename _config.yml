@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Jaclyn (Jax) Jensen"
+title                    : "Home"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "Jaclyn Jensen"
 description              : &description "personal description"
 url                      : "https://jaclynjensen.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  :  # the subpath of your site, e.g. "/blog"
@@ -55,7 +55,7 @@ bing_site_verification   :
 alexa_site_verification  :
 yandex_site_verification :
 
-github                   : [metadata]
+#github                   : [metadata]
 
 # Social Sharing
 twitter:
@@ -82,9 +82,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Jaclyn"
+  name             : 
   avatar           : "ME.jpg"
-  bio              : "Astronomy PhD Candidate at the University of Victoria"
+  bio              :
   location         : "Victoria, British Columbia, Canada"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
@@ -98,7 +98,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "https://github.com/jax-astro"
+  github           : "jax-astro"
   google_plus      :
   keybase          :
   instagram        :
@@ -311,3 +311,5 @@ compress_html:
   clippings: all
   ignore:
     envs: development
+
+github : [metadata]

@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD student at Univeristy of Victoria. 
+I am a PhD candidate at Univeristy of Victoria. 
 
 My current research interests are any topics related to Galactic Archaeology, such as:
   * The formation, evolution, and accretion history of the Milky Way (MW),
